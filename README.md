@@ -1,2 +1,2 @@
-# collection
-a collection of various attractor types in 2D
+# A Collection of Various Attractor Types in 2D
+Written in Python using Datashader/numpy/pandas/Pillow.
