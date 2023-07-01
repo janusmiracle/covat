@@ -1,4 +1,5 @@
-# A Collection of Various Attractor Types in 2D
+# COVAT
+Collection of Various Attractor Types (in 2D).
 
 ## ToDo
 - Finish incomplete attractors..
