@@ -18,7 +18,7 @@ Below are the list of implemented attractors:
 |  Cao-Lai|  2| ```0 ≤ x ≤ 1 -- -0.5 ≤ y ≤ 0.5``` | ```Antiphase synchronism in chaotic systems - Ling-Yuan Cao1 & Ying-Cheng Lai```| [PDF](http://chaos1.la.asu.edu/~yclai/papers/PRE_98_CL.pdf)|
 |  Cat|  0|  N/A| ```Arnold's Cat Map```|[WIKIPEDIA](https://en.wikipedia.org/wiki/Arnold%27s_cat_map) |
 |  Cathala|  2| Unknown |```Invariant Sets for Windows: Resonance Structures, Attractors, Fractals and Patterns -- Albert D. Morozov, Timothy N. Dragunov, Olga V. Malysheva``` | Unknown|
-|  Chirikov Standard|  |  | | |
+|  Chirikov Standard| 1 | ```0 ≤ x ≤ 1 -- 0 ≤ y ≤ 1```|```Ulam method for the Chirikov standard map --  Klaus M. Frahm & Dima L. Shepelyansky``` ```A Glance at the Standard Map -- Ryan Tobin```|[PDF](https://arxiv.org/pdf/1004.1349.pdf) [PDF](https://csc.ucdavis.edu/~chaos/courses/nlp/Projects2009/RyanTobin/A%20Glance%20at%20the%20Standard%20Map.pdf) |
 |  Clifford|  |  | | |
 |  Coupled Logistic|  |  | | |
 |  Cross Chaotic|  |  | | |
