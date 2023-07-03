@@ -10,7 +10,7 @@ Below are the list of implemented attractors:
 | Name          | Number of Parameters | Restrictions  | Source | Link |
 | :-----------: |:--------------------:|:-------------:|:-------:|----:|
 | Arnold        | 1                    | ```δ < 1/2π -- 0 ≤ x ≤ 0.2 -- 0 ≤ y ≤ 0.2```| ```Irregular Attractors - Vadim S. Anishchenko and Galina I. Strelkova``` | [PDF](https://www.emis.de/journals/HOA/DDNS/2/153.pdf) | 
-| Bedhead       | 2                    | ```-1 ≤ a ≤ 1 -- -1 ≤ b ≤ 1 --x, y == 1.0```   |Discovered by Ivan Emrich -- ```Jason Rampe - 2D Strange Attractors Blog```|
+| Bedhead       | 2                    | ```-1 ≤ a ≤ 1 -- -1 ≤ b ≤ 1 --x, y == 1.0```   |Discovered by Ivan Emrich -- ```Jason Rampe - 2D Strange Attractors Blog```| [SITE] (https://softologyblog.wordpress.com/2017/03/04/2d-strange-attractors/) |
 | Belykh        | 3                    | blah blah     |
 
 #### To-Do:
