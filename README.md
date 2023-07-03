@@ -13,6 +13,48 @@ Below are the list of implemented attractors:
 | Bedhead       | 2                    | ```-1 ≤ a ≤ 1 -- -1 ≤ b ≤ 1 --x, y == 1.0```   |Discovered by Ivan Emrich -- ```Jason Rampe - 2D Strange Attractors Blog```| [BLOG](https://softologyblog.wordpress.com/2017/03/04/2d-strange-attractors/)|
 | Belykh        | 3                    | ```0 < λ < 1/2```  1 < γ ≤ $$2/(1+abs(k))$$  ```abs(k) < 1 -- 0 ≤ x ≤ 1 -- 0 ≤ y ≤ 1```     | ```Belykh Map - Vladimir N. Belykh and Igor Belykh``` | [ARTICLE](http://www.scholarpedia.org/article/Belykh_map)|
 |  Belykh V1|  |  | | |
+| Burgers |  |  | | |
+| Business Cycle |  |  | | |
+|  Cao-Lai|  |  | | |
+|  Cat|  |  | | |
+|  Cathala|  |  | | |
+|  Chirikov Standard|  |  | | |
+|  Clifford|  |  | | |
+|  Coupled Logistic|  |  | | |
+|  Cross Chaotic|  |  | | |
+|  DeJong|  |  | | |
+|  Dual Hénon|  |  | | |
+|  Elhadj-Sprott C|  |  | | |
+|  Fractal Dream|  |  | | |
+|  Gingerbreadman|  |  | | |
+|  Gumowski-Mira|  |  | | |
+|  HCA|  |  | | |
+|  Heagy-Hammel|  |  | | |
+|  Hopalong|  |  | | |
+|  Ikeda|  |  | | |
+|  Joshi-Blackmore|  |  | | |
+|  MacMillan|  |  | | |
+|  Martin|  |  | | |
+|  Maynard-Smith|  |  | | |
+|  Mira|  |  | | |
+|  Modified Lozi|  |  | | |
+|  Modified Mira|  |  | | |
+|  Multifold Hénon |  |  | | |
+|  Popcorn|  |  | | |
+|  Provenzale-Balmforth|  |  | | |
+|  Separatrix|  |  | | |
+|  Sine|  |  | | |
+|  Sine Delay|  |  | | |
+|  Sine Sine|  |  | | |
+|  Strelkova-Anishchenko|  |  | | |
+|  Sunflower|  |  | | |
+|  Svensson|  |  | | |
+|  Tinkerbell|  |  | | |
+|  Ushiki|  |  | | |
+|  Yang-Cao|  |  | | |
+
+
+
 
 #### To-Do:
 - Finish incomplete attractors..
