@@ -16,7 +16,7 @@ Below are the list of implemented attractors:
 | Burgers |  2|```stable for µ < 0.5 -- loses stability at µ = 0.5 -- invariant closed curve when µ exceeds 0.5```  |```Bifurcation Analysis, Chaos and Control in the Burgers Mapping - E. M. ELabbasy, H. N. Agiza, H. EL-Metwally, A. A. Elsadany``` |[PDF](http://www.worldacademicunion.com/journal/1749-3889-3897IJNS/IJNSVol4No3Paper02.pdf) |
 | Business Cycle |  2| Unknown | ```A Business Cycle Model with Cubic Nonlinearity - Tönu Puu & Irina Sushko```| [PDF](http://www.diva-portal.org/smash/get/diva2:227245/FULLTEXT01.pdf)|
 |  Cao-Lai|  2| ```0 ≤ x ≤ 1 -- -0.5 ≤ y ≤ 0.5``` | ```Antiphase synchronism in chaotic systems - Ling-Yuan Cao1 & Ying-Cheng Lai```| [PDF](http://chaos1.la.asu.edu/~yclai/papers/PRE_98_CL.pdf)|
-|  Cat|  |  | | |
+|  Cat|  0|  N/A| ```Arnold's Cat Map```|[WIKIPEDIA](https://en.wikipedia.org/wiki/Arnold%27s_cat_map) |
 |  Cathala|  |  | | |
 |  Chirikov Standard|  |  | | |
 |  Clifford|  |  | | |
