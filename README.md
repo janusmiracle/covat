@@ -17,7 +17,7 @@ Below are the list of implemented attractors:
 | Business Cycle |  2| Unknown | ```A Business Cycle Model with Cubic Nonlinearity - Tönu Puu & Irina Sushko```| [PDF](http://www.diva-portal.org/smash/get/diva2:227245/FULLTEXT01.pdf)|
 |  Cao-Lai|  2| ```0 ≤ x ≤ 1 -- -0.5 ≤ y ≤ 0.5``` | ```Antiphase synchronism in chaotic systems - Ling-Yuan Cao1 & Ying-Cheng Lai```| [PDF](http://chaos1.la.asu.edu/~yclai/papers/PRE_98_CL.pdf)|
 |  Cat|  0|  N/A| ```Arnold's Cat Map```|[WIKIPEDIA](https://en.wikipedia.org/wiki/Arnold%27s_cat_map) |
-|  Cathala|  |  | | |
+|  Cathala|  2| Unknown |```Invariant Sets for Windows: Resonance Structures, Attractors, Fractals and Patterns -- Albert D. Morozov, Timothy N. Dragunov, Olga V. Malysheva``` | Unknown|
 |  Chirikov Standard|  |  | | |
 |  Clifford|  |  | | |
 |  Coupled Logistic|  |  | | |
