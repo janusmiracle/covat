@@ -13,7 +13,7 @@ Below are the list of implemented attractors:
 | Bedhead       | 2                    | ```-1 ≤ a ≤ 1 -- -1 ≤ b ≤ 1 --x, y == 1.0```   |Discovered by Ivan Emrich -- ```Jason Rampe - 2D Strange Attractors Blog```| [BLOG](https://softologyblog.wordpress.com/2017/03/04/2d-strange-attractors/)|
 | Belykh        | 3                    | ```0 < λ < 1/2```  1 < γ ≤ $$2/(1+abs(k))$$  ```abs(k) < 1 -- 0 ≤ x ≤ 1 -- 0 ≤ y ≤ 1```     | ```Belykh Map - Vladimir N. Belykh & Igor Belykh``` | [ARTICLE](http://www.scholarpedia.org/article/Belykh_map)|
 |  Belykh V1|  2| Unknown |```Symbolic dynamics of Belykh-type maps - Denghui Li & Jianhua Xie``` | [ARTICLE](https://link.springer.com/article/10.1007/s10483-016-2080-9)|
-| Burgers |  2|  |```Bifurcation Analysis, Chaos and Control in the Burgers Mapping - E. M. ELabbasy, H. N. Agiza, H. EL-Metwally, A. A. Elsadany``` |[PDF](http://www.worldacademicunion.com/journal/1749-3889-3897IJNS/IJNSVol4No3Paper02.pdf) |
+| Burgers |  2|```stable for µ < 0.5 -- loses stability at µ = 0.5 -- n invariant closed curve when µ exceeds 0.5```  |```Bifurcation Analysis, Chaos and Control in the Burgers Mapping - E. M. ELabbasy, H. N. Agiza, H. EL-Metwally, A. A. Elsadany``` |[PDF](http://www.worldacademicunion.com/journal/1749-3889-3897IJNS/IJNSVol4No3Paper02.pdf) |
 | Business Cycle |  |  | | |
 |  Cao-Lai|  |  | | |
 |  Cat|  |  | | |
