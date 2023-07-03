@@ -7,9 +7,9 @@ Attractors are plots of unique equations. They are created by iterating over an 
 ## Attractors
 Below are the list of implemented attractors:
 
-| Name          | Number of Parameters | Restrictions  |
-| ------------- |:--------------------:| -------------:|
-| Arnold        | 1                    | blah blah     |
+| Name          | Number of Parameters | Restrictions  | Source |
+| ------------- |:--------------------:|:-------------:|-------:|
+| Arnold        | 1                    | δ < 1/2π, 0 ≤ x ≤ 0.2, 0 ≤ y ≤ 0.2|
 | Bedhead       | 2                    | blah blah     |
 | Belykh        | 3                    | blah blah     |
 
