@@ -19,7 +19,7 @@ Below are the list of implemented attractors:
 |  Cat|  0|  N/A| ```Arnold's Cat Map```|[WIKIPEDIA](https://en.wikipedia.org/wiki/Arnold%27s_cat_map) |
 |  Cathala|  2| Unknown |```Invariant Sets for Windows: Resonance Structures, Attractors, Fractals and Patterns -- Albert D. Morozov, Timothy N. Dragunov, Olga V. Malysheva``` | Unknown|
 |  Chirikov Standard| 1 | ```0 ≤ x ≤ 1 -- 0 ≤ y ≤ 1```|```Ulam method for the Chirikov standard map --  Klaus M. Frahm & Dima L. Shepelyansky``` ```A Glance at the Standard Map -- Ryan Tobin```|[PDF](https://arxiv.org/pdf/1004.1349.pdf) [PDF](https://csc.ucdavis.edu/~chaos/courses/nlp/Projects2009/RyanTobin/A%20Glance%20at%20the%20Standard%20Map.pdf) |
-|  Clifford|  |  | | |
+|  Clifford|  4| ```x, y == 0.1 -- -3 < a, b, c, d < 3``` | Discovered by Clifford A. Pickover -- ```Jason Rampe - 2D Strange Attractors Blog```| [BLOG](https://softologyblog.wordpress.com/2017/03/04/2d-strange-attractors/)|
 |  Coupled Logistic|  |  | | |
 |  Cross Chaotic|  |  | | |
 |  DeJong|  |  | | |
