@@ -73,10 +73,6 @@ James Rampe's [2D Strange Attractors Blog](https://softologyblog.wordpress.com/2
 Jürgen Meier [Attractors](http://www.3d-meier.de/index.html)
 
 #### To-Do:
-- Turn functions into class methods (done for arnold, just need to do all of the rest)
 - Finish incomplete attractors..
 - Add argparsers..
-- Implement 3D attractors..
-- Credits/References..
-- Instructions/Usage/Restrictions..
 - Gallery of examples..
