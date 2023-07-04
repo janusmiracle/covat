@@ -57,6 +57,7 @@ Below are the list of implemented attractors:
 
 
 #### To-Do:
+- Turn functions into class methods (done for arnold, just need to do all of the rest)
 - Finish incomplete attractors..
 - Add argparsers..
 - Implement 3D attractors..
