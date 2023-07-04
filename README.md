@@ -55,16 +55,16 @@ Below are the list of implemented attractors:
 
 
 ## Requirements
-Although you could install ```requirements.txt```, datashader contains all libraries within except for pillow. 
+Although you can install ```requirements.txt```, datashader contains all required libraries except for pillow. 
 Running ```pip install datashader``` and ```pip install pillow``` will suffice.
 
 ## Usage
 ### Display
-Run the ```display_data_shader_iamge``` function with the attractor you want.
+Run the ```display_data_shader_image``` function with the attractor you want.
 E.g. ```display_datashader_image(attractor.Ikeda)```.
 ### Export
 From ```export.py```, run the ```export_datashader_image``` function with the attractor name as the first param, and the output path as the second param.
-E.g. ```export_datashader_image(Hopalong, "/user/Document/Images/")```
+E.g. ```export_datashader_image(Hopalong, "/Users/user/Document/Images/")```
 
 
 #### To-Do:
