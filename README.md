@@ -56,7 +56,8 @@ Below are the list of implemented attractors:
 
 ## Requirements
 
-Although you could install ```requirements.txt```, datashader contains all libraries within except for pillow. So running ```pip install datashader``` ```pip install pillow``` will suffice.
+Although you could install ```requirements.txt```, datashader contains all libraries within except for pillow. 
+Running ```pip install datashader``` and ```pip install pillow``` will suffice.
 
 #### To-Do:
 - Turn functions into class methods (done for arnold, just need to do all of the rest)
