@@ -1,5 +1,4 @@
-<p align="center">
-  # COVAT</p>
+# COVAT
 Collection of Various Attractor Types (in 2D).
 
 ## Introduction
