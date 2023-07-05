@@ -71,8 +71,3 @@ E.g. ```export_datashader_image(Hopalong, "/Users/user/Document/Images/")```
 James Rampe's [2D Strange Attractors Blog](https://softologyblog.wordpress.com/2017/03/04/2d-strange-attractors/)
 
 Jürgen Meier [Attractors](http://www.3d-meier.de/index.html)
-
-#### To-Do:
-- Finish incomplete attractors..
-- Add argparsers..
-- Gallery of examples..
