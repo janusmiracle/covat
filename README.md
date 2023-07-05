@@ -48,7 +48,7 @@ Below are the list of implemented attractors:
 |  Sine Sine| 1 | --- |```Classifying and quantifying basins of attraction -- J. C. Sprott and Anda Xiong``` |[PDF](https://sprott.physics.wisc.edu/pubs/paper442.pdf) |
 |  Strelkova-Anishchenko| 2 | --- |```Irregular Attractors -- VADIM S. ANISHCHENKO and GALINA I. STRELKOVA``` | [PDF](https://www.emis.de/journals/HOA/DDNS/2/153.pdf)|
 |  Sunflower| 4 | --- | ---| ---|
-|  Svensson| 4 | ```-3 < a, b, c, d < 3``` | |[SITE](http://paulbourke.net/fractals/peterdejong/) |
+|  Svensson| 4 | ```-3 < a, b, c, d < 3``` |--- |[SITE](http://paulbourke.net/fractals/peterdejong/) |
 |  Tinkerbell| 4 | --- |--- | [WIKIPEDIA](https://en.wikipedia.org/wiki/Tinkerbell_map)|
 |  Ushiki| 4 | --- | ```Ergodic theory of chaos and strange attractors - J. P. Eckmann, D. Ruelle```|[PDF](https://www.ihes.fr/~ruelle/PUBLICATIONS/%5b81%5d.pdf) |
 |  Yang-Cao| 5 | --- |```A New Hybrid Chaotic Map and Its Application on Image Encryption and Hiding - Yang Cao``` | [ARTICLE](https://www.hindawi.com/journals/mpe/2013/728375/)|
