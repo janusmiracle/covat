@@ -17,7 +17,7 @@ spec = [("n", int64), ("x", float64[:]), ("y", float64[:])]
 @jitclass(spec)
 class Trajectory:
     """
-    Runs various attractor equation calculations to obtain trajectories.
+    Computes attractor trajectory.
 
     Parameters:
         n: Number of iterations // initialized to 20 million (int64)
