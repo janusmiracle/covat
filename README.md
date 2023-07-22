@@ -6,13 +6,11 @@ Attractors are plots of unique equations. They are created by iterating over an 
 
 ## Gallery
 Below are a few of my favourite attractors.
-<p align="center">
-<h1>Arnold</h1>
-  <img width="200" src="![Arnold](/gallery/Arnold.png)" alt="Arnold">
-</p>
-![Arnold](//gallery/Arnold.png)
-
 ![Arnold](/gallery/Arnold.png "Arnold")
+![Cat](/gallery/Cat.png "Cat")
+![Arnold](/gallery/Arnold.png "Arnold")
+
+
 
 ## Attractors
 Below are the list of implemented attractors:
