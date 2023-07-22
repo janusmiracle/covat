@@ -8,9 +8,8 @@ Attractors are plots of unique equations. They are created by iterating over an 
 Below are a few of my favourite attractors.
 <p align="center">
 Arnold
-![Arnold](./gallery/Arnold.png "Arnold")
 </p>
-
+![Arnold](./gallery/Arnold.png "Arnold")
 
 ## Attractors
 Below are the list of implemented attractors:
