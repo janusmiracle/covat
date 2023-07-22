@@ -7,9 +7,16 @@ Attractors are plots of unique equations. They are created by iterating over an 
 ## Gallery
 Below are a few of my favourite attractors.
 ![Arnold](/gallery/Arnold.png "Arnold")
-![Cat](/gallery/Cat.png "Cat")
-![Arnold](/gallery/Arnold.png "Arnold")
 
+![Burgers](/gallery/Burgers.png "Burgers")
+
+![Cat](/gallery/Cat.png "Cat")
+
+![Gingerbreadman](/gallery/Gingerbreadman.png "Gingerbreadman")
+
+![Gumowski-Mira](/gallery/gumowski-mira.png "gumowski-mira")
+
+![Ikeda](/gallery/Ikeda.png "Ikeda")
 
 
 ## Attractors
