@@ -9,7 +9,9 @@ Below are a few of my favourite attractors.
 <p align="center">
 Arnold
 </p>
-![Arnold](/gallery/Arnold.png)
+![Arnold](//gallery/Arnold.png)
+
+![alt text for screen readers](/gallery/Arnold.png "Text to show on mouseover")
 
 ## Attractors
 Below are the list of implemented attractors:
