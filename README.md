@@ -4,15 +4,6 @@ Collection of Various Attractor Types (in 2D).
 ## Introduction
 Attractors are plots of unique equations. They are created by iterating over an equation multiple times and using the result at each iteration to plot a point. The result is then fed back into the equation. After millions of points have been plotted, fractal-like structures begin to appear. Over time, the repeated points fall into a basin of attraction that forms the unique shape.
 
-## Gallery
-![Arnold](/gallery/Arnold.png "Arnold")
-![Burgers](/gallery/Burgers.png "Burgers")
-![Cat](/gallery/Cat.png "Cat")
-![Gingerbreadman](/gallery/Gingerbread.png "Gingerbreadman")
-![Gumowski-Mira](/gallery/gumowski-mira.png "gumowski-mira")
-![Ikeda](/gallery/Ikeda.png "Ikeda")
-
-
 ## Attractors
 Below are the list of implemented attractors:
 
@@ -80,3 +71,12 @@ E.g. ```export_datashader_image(Hopalong, "/Users/user/Document/Images/")```
 James Rampe's [2D Strange Attractors Blog](https://softologyblog.wordpress.com/2017/03/04/2d-strange-attractors/)
 
 Jürgen Meier [Attractors](http://www.3d-meier.de/index.html)
+
+
+## Gallery
+![Arnold](/gallery/Arnold.png "Arnold")
+![Burgers](/gallery/Burgers.png "Burgers")
+![Cat](/gallery/Cat.png "Cat")
+![Gingerbreadman](/gallery/Gingerbread.png "Gingerbreadman")
+![Gumowski-Mira](/gallery/gumowski-mira.png "gumowski-mira")
+![Ikeda](/gallery/Ikeda.png "Ikeda")
